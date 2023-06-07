@@ -1,0 +1,7 @@
+﻿Connect name:"C:\kt_dev\githubaction\OCR1\OCR1.suite\Images\fastenersType.png", type:"screenshot"
+wait 1
+click text:"SSSGL",contrastColor:"#EFEFEF"
+click text:"SSFLEX",contrastColor:"#EFEFEF"
+click text:"SSASY"
+click text:"SSSGL"
+click text:"SSFLEX"
